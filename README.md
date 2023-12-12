@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidhya</h1>
 <h3 align="center">An enthusiastic Web developer from India</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDeekshachandan&psig=AOvVaw2rHV083-cz6qqJgKTQTLvq&ust=1702443917490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiFhP-PiYMDFQAAAAAdAAAAABAD" alt="gif-img"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhya0501&label=Profile%20views&color=0e75b6&style=flat" alt="vidhya0501" /> </p>
 
