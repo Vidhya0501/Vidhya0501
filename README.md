@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Weather App<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about HTML, CSS, Javascript<br>
+🔭 I’m currently working on Online Music Player <br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about HTML, CSS, Javascript<br>
 
 
 ## 🌐 Socials:
