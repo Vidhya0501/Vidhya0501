@@ -1,6 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on Online Music Player <br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about HTML, CSS, Javascript<br>
+Hi, I'm Vidhya, a passionate Full Stack Developer with expertise in MERN Stack, SvelteKit, Next.js, PostgreSQL, and MSSQL. I love building clean, scalable, and performant web applications that solve real-world problems and improve user experiences.
+🔧 What I Do
 
+Build interactive UIs with React.js, Next.js, and SvelteKit
+
+Develop robust APIs using Node.js & Express.js
+
+Work with SQL (PostgreSQL, MSSQL) & NoSQL (MongoDB) databases
+
+Collaborate using Git and follow modern development workflows
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Vidhya S](https://www.linkedin.com/in/vidhya-s-92884b27b/)) 
