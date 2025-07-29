@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vidhya, a passionate Full Stack Developer with expertise in MERN Stack, SvelteKit, Next.js, PostgreSQL, and MSSQL. I love building clean, scalable, and performant web applications that solve real-world problems and improve user experiences.<br><br>🔧 What I Do<br><br>Build interactive UIs with React.js, Next.js, and SvelteKit<br><br>Develop robust APIs using Node.js & Express.js<br><br>Work with SQL (PostgreSQL, MSSQL) & NoSQL (MongoDB) databases<br><br>Collaborate using Git and follow modern development workflows
+👋 Hi, I'm Vidhya, a passionate Full Stack Developer with skilled in MERN Stack, SvelteKit, Next.js, PostgreSQL, and MSSQL. I love building clean, scalable, and high-performance web applications that solve real-world problems and enhance user experiences.<br><br>🔧 What I Do<br><br>Build interactive UIs with React.js, Next.js, and SvelteKit<br><br>Develop robust APIs using Node.js & Express.js<br><br>Work with SQL (PostgreSQL, MSSQL) & NoSQL (MongoDB) databases<br><br>Collaborate using Git and follow modern development workflows
 
 
 ## 🌐 Socials:
